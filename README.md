@@ -9,7 +9,10 @@ Mhm yes coding and stuff
 - Java
 - Javascript
 - C#
+- C++
 - Python
+- ReactJS
+- NodeJS
 - And probably more
 <!---
 ItsRiprod/ItsRiprod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
