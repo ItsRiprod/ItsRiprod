@@ -17,13 +17,16 @@ You'll notice that I spend a little bit of time on a lot of projects. When I get
 - [Brindr](izbrindr.web.app)
   *More of a joke than the last and an absolute rip on tinder. Made for fun to experiment with UI components*
 - [MCC Island Stats](mccisle.web.app)
-  *Requested to compile the stats for MCC Island per-user instead of per-event
+  *Requested to compile the stats for MCC Island per-user instead of per-event*
+- [iProjectify](iprojectify.com)
+  *A general purpose project management website for individuals to keep track of their projects*
 ### 🟧 Side Projects:
 - Firebase
 - Camantia
 - Cornstalk
 - Breadcrumbs
 - Breadify (Chrome extension)
+- TODOThing
 
 ## 🔻Skills
 - CSS
@@ -36,6 +39,7 @@ You'll notice that I spend a little bit of time on a lot of projects. When I get
 - ReactJS
 - NodeJS
 - Spring Boot/Framework
+- Remix
 - And probably more
 <!---
 ItsRiprod/ItsRiprod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
