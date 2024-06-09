@@ -33,6 +33,7 @@ You'll notice that I spend a little bit of time on a lot of projects. When I get
 - HTML
 - Java
 - Javascript
+- Typescript
 - C#
 - C++
 - Python
