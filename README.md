@@ -2,12 +2,12 @@ Mhm yes coding and stuff
 
 Hey, so I actually have no idea why you are here. But while I have you attention, here's a little bit about myself:
 
-One of my favorite quotes is, "Jack of all trades, master of none. But oftentimes better than a master of one"
+One of my favorite quotes is, 
+> "Jack of all trades, master of none. But oftentimes better than a master of one"
 
 You'll notice that I spend a little bit of time on a lot of projects. When I get around to it, I usually circle back and finish up past ones, but for the most part I like to keep my options very wide. Everything from Arduino to full stack web development, I'm completely down to try it. The only way to guarantee you'll never succeed is to never attempt to begin with. In the process, we may learn something along the way.
 
 ## 🔻Projects:
-*Here we put coding projects and whatever it is I am currently working on*
 
 ### 🟩 Websites:
 - [ItsRiprod](https://itsriprod.com)
@@ -28,21 +28,23 @@ You'll notice that I spend a little bit of time on a lot of projects. When I get
 - Breadify (Chrome extension)
 - TODOThing
 
-## 🔻Skills
-- CSS
-- HTML
-- Java
-- Javascript
-- Typescript
-- C#
-- C++
-- Python
-- ReactJS
-- NodeJS
-- Spring Boot/Framework
-- Remix
+## ✨Skills
+> Most comfortable to least comfortable 🟩🟨🟧
+
+- 🟩 CSS/SCSS
+- 🟩 HTML
+- 🟩 Java
+- 🟩 Javascript
+- 🟩 Typescript
+- 🟨 C#
+- 🟧 C++
+- 🟧 Python
+- 🟩 ReactJS
+- 🟩 Vite
+- 🟩 NodeJS
+- 🟨 Spring Boot/Framework
+- 🟩 Remix
 - And probably more
-<!---
-ItsRiprod/ItsRiprod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+If you have any questions about any repo, reach out to my discord! I'd be more than happy to explain what I did
