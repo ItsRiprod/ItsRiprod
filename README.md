@@ -57,6 +57,7 @@ One of my favorite quotes is,
 - 🟧 Python
 - 🟩 Electron
 - 🟩 ReactJS
+- 🟨 ASP.NET
 - 🟩 Vite
 - 🟩 NodeJS
 - 🟩 Remix
