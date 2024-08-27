@@ -1,12 +1,12 @@
 Mhm yes coding and stuff
 
-*Hey, so I actually have no idea why you are here. But while I have you attention, here's a little bit about myself:*
+*Hey, so I actually have no idea why you are here. But while I have your attention, here's a little bit about myself:*
 
-Hi, I'm Riprod. I like to spend my time taking long walks on the beach and enjoying the sun. Now that I know you're not just a filthy casual, I can actually get into an explanation. I'm still in college but my desire to excel hasn't even begun to die down. I enjoy basically anything I can get my hands on regarding code. Below, I have a few of my projects laid out, and I hope you have the chance to look through a couple of them. Though I may not be a professional, I enjoy the process and maybe someday we'll finish a project.
+Hi, I'm Riprod. I like to take long walks on the beach and enjoy the sun. Now that I know you're not just a filthy casual, I can get into an explanation. I'm still in college but my desire to excel hasn't even begun to die down. I enjoy anything I can get my hands on regarding code. Below, I have a few of my projects laid out, and I hope you have the chance to look through a couple of them. Though I may not be a professional, I enjoy the process and maybe we'll finish a project.
 
-You'll notice that I spend a little bit of time on a lot of projects. When I get around to it, I usually circle back and finish up past ones, but for the most part I like to keep my options very wide. I'm completely down to try everything from Arduino to full stack web development. The only way to guarantee you'll never succeed is to never attempt in the first place. In the process, we may learn something along the way.
+You'll notice that I spend a lot of time on a lot of projects. When I get around to it, I usually circle back and finish up past ones, but for the most part, I like to keep as many options available to me as possible. I'm completely down to try everything from Arduino to full-stack web development. The only way to guarantee you'll never succeed is to never attempt in the first place. In the process, we may learn something along the way.
 
-One of my favorite quotes is, 
+One of my favorite quotes: 
 > "Jack of all trades, master of none. But oftentimes better than a master of one"
 
 
