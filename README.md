@@ -9,6 +9,7 @@ You'll notice that I spend a lot of time on a lot of projects. When I get around
 One of my favorite quotes: 
 > "Jack of all trades, master of none. But oftentimes better than a master of one"
 
+<h1 Style="color:red">So I think you can use HTML</h1>
 
 ---
 <details>
