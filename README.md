@@ -1,10 +1,6 @@
 <div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-
-Mhm yes coding and stuff
-
-*Hey, so I actually have no idea why you are here. But while I have your attention, here's a little bit about myself:*
 
 Hi, I'm Riprod. I like to take long walks on the beach and enjoy the sun. Now that I know you're not just a filthy casual, I can get into an explanation. I'm still in college but my desire to excel hasn't even begun to die down. I enjoy anything I can get my hands on regarding code. Below, I have a few of my projects laid out, and I hope you have the chance to look through a couple of them. Though I may not be a professional, I enjoy the process and maybe we'll finish a project.
 
@@ -32,7 +28,7 @@ One of my favorite quotes:
 - [iProjectify](iprojectify.com)
   *A general purpose project management website for individuals to keep track of their projects*
 ### 🟧 Side Projects:
-- [DeskThing](https://github.com/ItsRiprod/DeskThing)
+- <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%;" alt="Click to see the source"> <p>DeskThing</p></a>
 - Firebase
 - Camantia
 - Cornstalk
