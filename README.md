@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
 Mhm yes coding and stuff
 
 *Hey, so I actually have no idea why you are here. But while I have your attention, here's a little bit about myself:*
@@ -9,7 +13,6 @@ You'll notice that I spend a lot of time on a lot of projects. When I get around
 One of my favorite quotes: 
 > "Jack of all trades, master of none. But oftentimes better than a master of one"
 
-<h1 Style="color:red">So I think you can use HTML</h1>
 
 ---
 <details>
