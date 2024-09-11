@@ -29,7 +29,7 @@ One of my favorite quotes:
   *A general purpose project management website for individuals to keep track of their projects*
 ### 🟧 Side Projects:
 - <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%;" alt="Click to see the source"> <p>DeskThing</p></a>
-- Firebase
+- Gridbase
 - Camantia
 - Cornstalk
 - Breadcrumbs
