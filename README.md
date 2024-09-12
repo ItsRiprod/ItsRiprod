@@ -24,7 +24,17 @@ You'll notice that I spend a lot of time on projects. When I get around to it, I
 - [iProjectify](iprojectify.com)
   *A general purpose project management website for individuals to keep track of their projects*
 ### 🛠️ Side Projects:
-- <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 5%; display: flex; justify-content: center" alt="Click to see the source"> <p>DeskThing</p></a>
+<div style="display: flex; width: 25rem">
+<a target="_blank" href="https://github.com/ItsRiprod/"><img src="breadcrumbs.svg" style="width: 100%;" alt="Click to see the source"></a>
+<a target="_blank" href="https://github.com/ItsRiprod/brebfsite"><img src="bread.svg" style="width: 100%;" alt="Click to see the source"></a>
+<a target="_blank" href="https://github.com/ItsRiprod/camantia"><img src="camantia.svg" style="width: 100%;" alt="Click to see the source"></a>
+<a target="_blank" href="https://github.com/ItsRiprod/cornstalk"><img src="cornstalk.svg" style="width: 100%;" alt="Click to see the source"></a>
+<a target="_blank" href="https://github.com/ItsRiprod/gridbase"><img src="gridbase.svg" style="width: 100%;" alt="Click to see the source"></a>
+<a target="_blank" href="https://github.com/ItsRiprod/iprojectify"><img src="iProjectify.svg" style="width: 100%;" alt="Click to see the source"></a>
+<a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 100%;" alt="Click to see the source"></a>
+</div>
+
+- DeskThing
 - Gridbase
 - Camantia
 - Cornstalk
