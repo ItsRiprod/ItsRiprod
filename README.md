@@ -11,6 +11,7 @@ You'll notice that I spend a lot of time on projects. When I get around to it, I
  <summary>
   <h1>🔻Projects:</h1>
  </summary>
+<img src="bar.svg" style="width: 100%;" alt="Click to see the source">
 
 ### 🌐 Websites:
 - [ItsRiprod](https://itsriprod.com)
@@ -24,7 +25,6 @@ You'll notice that I spend a lot of time on projects. When I get around to it, I
 - [iProjectify](iprojectify.com)
   *A general purpose project management website for individuals to keep track of their projects*
 ### 🛠️ Side Projects:
-<img src="bar.svg" style="width: 100%;" alt="Click to see the source">
 <div style="display: flex; width: 25%; overflow-x: auto; white-space: nowrap;">
 <a target="_blank" href="https://github.com/ItsRiprod/"><img src="breadcrumbs.svg" style="width: 10%;" alt="Click to see the source"></a>
 <a target="_blank" href="https://github.com/ItsRiprod/brebfsite"><img src="bread.svg" style="width: 10%;" alt="Click to see the source"></a>
@@ -54,7 +54,7 @@ You'll notice that I spend a lot of time on projects. When I get around to it, I
  <summary>
   <h1>✨Skills</h1>
  </summary>
-
+<img src="bar.svg" style="width: 100%;" alt="Click to see the source">
 
 > Most comfortable to least comfortable 🟩🟨🟧
 ## 👨‍💻 Languages used
