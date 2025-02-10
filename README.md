@@ -24,6 +24,8 @@ You'll notice that I spend a lot of time on projects. When I get around to it, I
   *Requested to compile the stats for MCC Island per-user instead of per-event*
 - [iProjectify](iprojectify.com)
   *A general purpose project management website for individuals to keep track of their projects*
+- [DeskThing Website](deskthing.app)
+  *The main landing page for DeskThing*
 ### 🛠️ Side Projects:
 <div style="display: flex; width: 25%; overflow-x: auto; white-space: nowrap;">
 <a target="_blank" href="https://github.com/ItsRiprod/"><img src="breadcrumbs.svg" style="width: 10%;" alt="Click to see the source"></a>
