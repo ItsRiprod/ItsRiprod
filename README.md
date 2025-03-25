@@ -37,12 +37,22 @@ You'll notice that I spend a lot of time on projects. When I get around to it, I
 <a target="_blank" href="https://github.com/ItsRiprod/DeskThing"><img src="deskthing.svg" style="width: 10%;" alt="Click to see the source"></a>
 </div>
 
-- DeskThing
+- DeskThing [![](https://tokei.rs/b1/github/ItsRiprod/DeskThing)](https://github.com/ItsRiprod/DeskThing)
+  
+    - deskthing-apps [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-apps?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-apps)
+    - deskthing-app-server [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-app-server?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-app-server)
+    - deskthing-app-client [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-app-client?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-app-client)
+    - deskthing-cli [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-cli?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-cli)
+    - deskthing-types [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-types?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-types)
+    - deskthing-website [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-website?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-website)
+    - deskthing-client [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-client?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-client)
+    - deskthing-template [![](https://tokei.rs/b1/github/ItsRiprod/deskthing-template?language=JavaScript,TypeScript,TSX,JSX)](https://github.com/ItsRiprod/deskthing-template)
+
 - Gridbase
 - Camantia
 - Cornstalk
 - Breadcrumbs
-- Breadify (Chrome extension)
+- Breadify
 - Brebfsite
 - Brinder
 - Isle Stats
