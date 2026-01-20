@@ -1,4 +1,9 @@
 ```zsh
+~/ -$ sudo rm -rf ~
+[sudo] password for riprod:
+Sorry, try again.
+~/ -$ neofetch
+
                      ./o.                  discord: @riprod 
                    ./sssso-                --------------- 
                  `:osssssss+-              OS: EndeavourOS Linux x86_64 
@@ -15,4 +20,5 @@
    ./++++++++++++++++++++++++++++++/:.     Terminal: konsole 
   `:::::::::::::::::::::::::------``       IDE: VSCode  
                                            Memory: Running low
+~/ -$ |
 ```
