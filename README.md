@@ -15,9 +15,9 @@ Sorry, try again.
       .://+ssssssssssssssssssssssso++:     Commit Frequency: when necessary 
     .:///ossssssssssssssssssssssssso++:    Active Special Interest: Hytale
   `:////ssssssssssssssssssssssssssso+++.   Hobbies: Coding
-`-////+ssssssssssssssssssssssssssso++++-   Theme: Breeze-Dark [GTK2], Breeze [GTK3] 
+`-////+ssssssssssssssssssssssssssso++++-   Theme: Breeze-Dark [GTK2], Synthwave '84 
  `..-+oosssssssssssssssssssssssso+++++/`   Icons: breeze-dark [GTK2/3] 
-   ./++++++++++++++++++++++++++++++/:.     Terminal: konsole 
+   ./++++++++++++++++++++++++++++++/:.     Terminal: Ghostty 
   `:::::::::::::::::::::::::------``       IDE: VSCode  
                                            Memory: Running low
 ~/ -$ |
